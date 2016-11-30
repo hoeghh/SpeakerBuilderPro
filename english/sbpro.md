@@ -10,7 +10,7 @@ We've split the guide up into the following sections:
  - Closed boxes
  - Refleks boxes
 - Special features
- - Multible units
+ - Multiple units
  - Custom units parameters
 
 ## Quick guide
@@ -81,14 +81,14 @@ And like in the closed box section, it will calculate SPL in both 1 watt and 2.8
 It also calculates some numbers for you.
 
 ## Special features
-You can use some of the more advanced features of SpeakerBuilder Pro. It can do calculate on multible boxes, change input power and you can specify another value for Rx (resistance before the speakerunit like cableing, crossover ect.)
+You can use some of the more advanced features of SpeakerBuilder Pro. It can do calculate on multiple boxes, change input power and you can specify another value for Rx (resistance before the speakerunit like cableing, crossover ect.)
 
 If the driver you want to do calculations on does not exist in our database, you can enter Thiele/Small yourself directly into the UI too.
 
-### Multible units
-In the driver input section you can choose to work on multible units. Ether in series or parallel. In the Thiele/Small parameters you will get parameters like Qts', Re' and so on. These are the new calculated values for the number of units you choose, and these will be used in all calculation.
+### Multiple units
+In the driver input section you can choose to work on multiple units. Ether in series or parallel. In the Thiele/Small parameters you will get parameters like Qts', Re' and so on. These are the new calculated values for the number of units you choose, and these will be used in all calculation.
 
-![Multible units](../images/UI_driver_multibleselected.png)
+![Multiple units](../images/UI_driver_multibleselected.png)
 
 In the dropdown box "Number of units" you can choose up to 4 units. SpeakerBuilder Pro will calculate all as either coupled in series or parallel. You can choose which of these in the next dropdown box called "Coupling".
 
