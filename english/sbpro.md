@@ -9,7 +9,7 @@ We've split the guide up into the following sections:
  - Driver selection
  - Closed boxes
  - Refleks boxes
-- Advanced calculations
+- Special features
  - Multible units
  - Custom units parameters
 
@@ -80,7 +80,7 @@ And like in the closed box section, it will calculate SPL in both 1 watt and 2.8
 
 It also calculates some numbers for you.
 
-## Advanced calculations
+## Special features
 You can use some of the more advanced features of SpeakerBuilder Pro. It can do calculate on multible boxes, change input power and you can specify another value for Rx (resistance before the speakerunit like cableing, crossover ect.)
 
 If the driver you want to do calculations on does not exist in our database, you can enter Thiele/Small yourself directly into the UI too.
@@ -103,4 +103,4 @@ These are provided by your driver manufactorer.
 
 ![Reflex box](../images/UI_custom_unit_parameters.png)
 
- Once you have entered the values, click the save button. Now SpeakerBuilder Pro will do its calculations on your Thiele/Small parameters. 
+ Once you have entered the values, click the save button. Now SpeakerBuilder Pro will do its calculations on your Thiele/Small parameters.
